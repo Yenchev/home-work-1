@@ -19,3 +19,5 @@ let filmPrompt = () => {
 	}
 };
 filmPrompt();
+
+// console.log(personalMovieDB);
